@@ -30,3 +30,19 @@ Built a Comprehensive and interactive dashboard to throw light on day-to-day ope
 8)  Driver Ratings Distribution
 9)   Customer vs. Driver Ratings
 10) Comprehensive interactive dashboard. - <a href="https://github.com/Vivek-Newhere/Ola-Rides-And-Operations-Dashboard/blob/main/Ola%20Rides%20and%20Operations%20Dashboard.pbix">View Dashboard</a>
+
+## Dashboard Images
+![Overall_dashboard](https://github.com/user-attachments/assets/6d43a215-4d3b-41c1-84b2-82aa21cc139d)
+![Vehicle_type](https://github.com/user-attachments/assets/16357443-68a8-4771-8d6d-8510758115a7)
+![Revenue_dahboard](https://github.com/user-attachments/assets/44fcf36d-02af-4535-89cf-58b7716608ba)
+![Cancellation_Dashboard](https://github.com/user-attachments/assets/7e61eac1-ce19-48ad-ad05-601045b99d14)
+![Ratings_Dashboard](https://github.com/user-attachments/assets/4f89b1c1-d625-466c-a5ce-31870660e086)
+
+
+
+
+
+
+
+
+
