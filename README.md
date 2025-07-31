@@ -5,7 +5,7 @@ Built a Comprehensive and interactive dashboard to throw light on day-to-day ope
 1) Excel
 2) SQL
 3) PowerBi
-## KPIs Addressed on SQL
+## KPIs Addressed on SQL - <a href="https://github.com/Vivek-Newhere/Ola-Rides-And-Operations-Dashboard/blob/main/Ola_SQL_Answers.sql">View SQL Code</a>
 1) Retrieval of all successful bookings
 2) Average ride distance for each vehicle type
 3) Total number of cancelled rides by customers
