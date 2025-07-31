@@ -2,7 +2,7 @@
 ## Project Objective
 Built a Comprehensive and interactive dashboard to throw light on day-to-day operation of Ola services from perspective of organization, riders as well as customers. This project has went through series of stages involving Data extraction, Data processing and Data Cleaning through MS-Excel. Post this, important business and analytical parameters retrieved through SQL. At last the visulaizaton of Ola's perfomance over a span of month is relflected through interactive dashboard made on PowerBi.
 ## Dataset Used 
-- <a href="https://github.com/Vivek-Newhere/Ola-Rides-And-Operations-Dashboard/blob/main/Ola%20Bookings%20Data.xlsx"View Dataset</a>
+- <a href="https://github.com/Vivek-Newhere/Ola-Rides-And-Operations-Dashboard/blob/main/Ola%20Bookings%20Data.xlsx">View Dataset</a>
 ## Tools Used
 1) Excel
 2) SQL
